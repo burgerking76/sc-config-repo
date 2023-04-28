@@ -1,2 +1,7 @@
 polar:
   greeting: "Welcome to the catalog from a fresh config server"
+  
+spring:
+  cloud:
+    config:
+      fail-fast: false
